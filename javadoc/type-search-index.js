@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lab4","l":"DrawingAPI1"},{"p":"lab4","l":"DrawingAPI1Impl"},{"p":"lab4","l":"DrawingAPI2"},{"p":"lab4","l":"DrawingAPI2Impl"},{"p":"lab4","l":"GraphicObject"},{"p":"lab4","l":"Main"},{"p":"lab4","l":"Rectangle"}];updateSearchResults();
